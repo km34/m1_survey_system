@@ -1,0 +1,34 @@
+[class^="img-flex-"] {
+
+	margin-bottom: 20px;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+
+}
+
+.img-flex-2 img { width: 25%; }
+.img-flex-3 img { width: 32%; }
+.img-flex-4 img { width: 24%; }
+
+
+
+
+.image_size {
+	width: 30%;
+	height: auto;
+}
+
+.image_size_m {
+	width: 25%;
+	height: auto;
+}
+
+.image_c {
+	text-align: center;
+
+}
+li {
+    display: inline-block;
+}
